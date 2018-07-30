@@ -14,3 +14,8 @@ Learn drag and drop event handling
 https://scratch.mit.edu/projects/editor/?tip_bar=name&utm_source=codeorg
 
 Animate words or pictures by drag and dropping a response
+
+# Hacktoberfest
+https://hacktoberfest.digitalocean.com/
+
+Learn to make pull requests
