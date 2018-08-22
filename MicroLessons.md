@@ -19,3 +19,8 @@ Animate words or pictures by drag and dropping a response
 https://hacktoberfest.digitalocean.com/
 
 Learn to make pull requests
+
+# Web Security
+https://medium.freecodecamp.org/a-quick-introduction-to-web-security-f90beaf4dd41
+
+Learen about CORS errors
